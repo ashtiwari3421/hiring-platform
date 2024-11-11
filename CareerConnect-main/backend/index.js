@@ -19,7 +19,7 @@ app.use(cookieParser());
 
 
 const corsOptions = {
-  origin: "https://hiring-platform-r21r.onrender.com",
+  origin: "https://hiring-platform-rouge.vercel.app",
   credentials: true,
 };
 
