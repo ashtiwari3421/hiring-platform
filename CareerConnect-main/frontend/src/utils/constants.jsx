@@ -1,2 +1,2 @@
-export const USER_API_END_POINT="http://localhost:7000/api/v1/user";
-export const JOB_API_END_POINT = "http://localhost:7000/api/v1/job"
+export const USER_API_END_POINT="https://hiring-platform-r21r.onrender.com/api/v1/user";
+export const JOB_API_END_POINT = "https://hiring-platform-r21r.onrender.com/api/v1/job"
