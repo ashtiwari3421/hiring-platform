@@ -30,8 +30,8 @@ Career-Connect provides an efficient and easy-to-use platform for recruiters and
 ## Technologies Used
 
 - **Frontend**: React.js, HTML, CSS
-- **Backend**: Node.js, Express.js (add other backend technologies if applicable)
-- **Database**: MongoDB (or specify your database of choice)
+- **Backend**: Node.js, Express.js 
+- **Database**: MongoDB 
 - **Version Control**: Git, GitHub
 
 ## Installation
