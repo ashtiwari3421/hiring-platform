@@ -71,9 +71,6 @@ Career-Connect provides an efficient and easy-to-use platform for recruiters and
 
 Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request with a description of your work.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 --- 
 
